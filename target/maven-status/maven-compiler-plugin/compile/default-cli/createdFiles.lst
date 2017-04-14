@@ -1,0 +1,3 @@
+com\cloud\controller\ComputeController.class
+com\cloud\service\ComputeService.class
+com\cloud\ComputeApplication.class
